@@ -1,0 +1,30 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/FoundryAgent.AppHost/bin/Debug/net8.0/FoundryAgent.AppHost.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/FoundryAgent.AppHost",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        },
+        {
+            "name": "Docker .NET Launch",
+            "type": "docker",
+            "request": "launch",
+            "preLaunchTask": "docker-run: debug",
+            "netCore": {
+                "appProject": "${workspaceFolder}/FoundryAgent.AppHost/FoundryAgent.AppHost.csproj"
+            }
+        }
+    ]
+}
