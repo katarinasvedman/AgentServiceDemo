@@ -1,0 +1,24 @@
+
+Company Regulations for Product Content
+
+1. Country-Specific Restrictions
+   1.1 United States
+       - Restricted Words: "drug", "medicine", "cure"
+       - Compliance Notes: Avoid claims related to medical treatments without FDA approval.
+   1.2 European Union
+       - Restricted Words: "organic", "natural", "eco-friendly"
+       - Compliance Notes: Ensure products meet EU standards for organic labeling.
+   1.3 China
+       - Restricted Words: "free", "guarantee", "safe"
+       - Compliance Notes: Adhere to Chinese advertising laws and avoid misleading claims.
+
+2. General Product Content Guidelines
+   - Ensure all product descriptions are accurate and truthful.
+   - Avoid using superlative language such as "best", "top", "number one".
+   - Provide clear and concise information about product usage and limitations.
+   - Include necessary warnings and disclaimers for products with potential risks.
+
+3. Escalation Procedures
+   - If uncertain about compliance, escalate to the legal department for review.
+   - Document all compliance checks and approvals.
+   - Regularly review and update product content to adhere to changing regulations.

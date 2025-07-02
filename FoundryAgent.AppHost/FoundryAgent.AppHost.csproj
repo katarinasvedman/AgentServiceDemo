@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <PackageReference Include="Aspire.Hosting.AppHost" Version="8.2.1" />
+    <PackageReference Include="Microsoft.SemanticKernel.Agents.AzureAI" Version="1.40.1-preview" />
   </ItemGroup>
 
 </Project>

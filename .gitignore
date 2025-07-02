@@ -398,3 +398,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Ignore local development settings
+FoundryAgent.ApiService/appsettings.Development.json
